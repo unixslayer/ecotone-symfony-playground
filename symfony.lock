@@ -34,6 +34,18 @@
             "ref": "4dd47013ecec8a158d186f63ec4b51f1defff897"
         }
     },
+    "prooph/pdo-event-store": {
+        "version": "1.14",
+        "recipe": {
+            "repo": "github.com/symfony/recipes-contrib",
+            "branch": "main",
+            "version": "1.7",
+            "ref": "f35cb6fe1edf5853c6d78d429c8ae3564bdd1bd8"
+        },
+        "files": [
+            "config/packages/prooph_pdo_event_store.yaml"
+        ]
+    },
     "symfony/console": {
         "version": "6.1",
         "recipe": {
